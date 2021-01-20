@@ -1,0 +1,11 @@
+/home/msf31/Documents/FoodMaterial/src/main/java/com/springcrud/FoodMaterial/service/FoodingService.java
+/home/msf31/Documents/FoodMaterial/src/main/java/com/springcrud/FoodMaterial/service/SupplierService.java
+/home/msf31/Documents/FoodMaterial/src/main/java/com/springcrud/FoodMaterial/domain/bahan_minuman.java
+/home/msf31/Documents/FoodMaterial/src/main/java/com/springcrud/FoodMaterial/domain/supplier.java
+/home/msf31/Documents/FoodMaterial/src/main/java/com/springcrud/FoodMaterial/domain/bahan_makanan.java
+/home/msf31/Documents/FoodMaterial/src/main/java/com/springcrud/FoodMaterial/repository/FoodingRepository.java
+/home/msf31/Documents/FoodMaterial/src/main/java/com/springcrud/FoodMaterial/controller/FoodingController.java
+/home/msf31/Documents/FoodMaterial/src/main/java/com/springcrud/FoodMaterial/FoodMaterialApplication.java
+/home/msf31/Documents/FoodMaterial/src/main/java/com/springcrud/FoodMaterial/service/MinumanService.java
+/home/msf31/Documents/FoodMaterial/src/main/java/com/springcrud/FoodMaterial/repository/SupplierRepository.java
+/home/msf31/Documents/FoodMaterial/src/main/java/com/springcrud/FoodMaterial/repository/MinumanRepository.java

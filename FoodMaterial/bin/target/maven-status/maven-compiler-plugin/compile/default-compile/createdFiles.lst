@@ -1,0 +1,5 @@
+com\springcrud\FoodMaterial\domain\Fooding.class
+com\springcrud\FoodMaterial\controller\FoodingController.class
+com\springcrud\FoodMaterial\FoodMaterialApplication.class
+com\springcrud\FoodMaterial\repository\FoodingRepository.class
+com\springcrud\FoodMaterial\service\FoodingService.class
